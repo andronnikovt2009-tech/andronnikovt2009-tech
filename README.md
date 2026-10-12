@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="moon.gif" width="100%" alt="Night Moon Animation">
+  <img src="./hollow-knight.gif" width="100%" alt="e3d10ddc4e252e8980dceebaf6174add">
 </div>
