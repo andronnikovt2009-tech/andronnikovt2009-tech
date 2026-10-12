@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="./hollow-knight.gif" width="100%" alt="e3d10ddc4e252e8980dceebaf6174add">
+  <img src="./e3d10ddc4e252e8980dceebaf6174add.gif" width="100%" alt="Hollow Knight Animation">
 </div>
